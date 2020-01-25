@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/latachz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kacperlatuszewski.pl
+  * I am latachz (https://keybase.io/latachz) on keybase.
+  * I have a public key ASAGqLa97FSAK3PttFrXq4YcFD3b0PHkgby9b2V5oGv9QAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206b0ba91156c0acaa2466e644af6af28574c72bae55d856d13f9f54b5a3a6c1600a",
+      "host": "keybase.io",
+      "kid": "012006a8b6bdec54802b73edb45ad7ab861c143ddbd0f1e481bcbd6f6579a06bfd400a",
+      "uid": "8509c14adc5c192a55bd208bb6aa8e19",
+      "username": "latachz"
+    },
+    "merkle_root": {
+      "ctime": 1579958289,
+      "hash": "f47ce3d899bc1b90778c462e4c77dd9f1cfb3584718d1c625675f4d2ba833d3bbafbc27236a1266f5c77638df8a2cbe7eaeb79fe2edcb10b1e1c072ac304c1b4",
+      "hash_meta": "b1334183d1bf893025cc9d03c399c439061ea16621326db12c6d3d050c64705a",
+      "seqno": 14360919
+    },
+    "service": {
+      "entropy": "nv7G0M/I8bz0zlhiEEr/IiK/",
+      "hostname": "kacperlatuszewski.pl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1579958305,
+  "expire_in": 504576000,
+  "prev": "7dc0a16628698bbcedb34d11338e834def4cd48b9dac54b838866e0812287d72",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBqi2vexUgCtz7bRa16uGHBQ929Dx5IG8vW9leaBr/UAKp3BheWxvYWTESpcCC8QgfcChZihpi7zts00RM46DTe9M1IudrFS4OIZuCBIofXLEIG6Ju93mQZWByYiFDlEuxQ6F1mkIb25ITpwI8GqHvYkGAgHCo3NpZ8RAY76TpBlnQS4KaT6ztq54jslc2cXKBWaaJbY/lEF40eSYvsOk7mUp1FWTIs9bzKJIveUxvEOtax8PIcqJWiWxB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINpY+e/Cg2OJwPRscXSy4L8t9A/V6HKyPBatovHDViSuo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/latachz
+
+==================================================================
